@@ -1,5 +1,5 @@
 # Multiplication-App
-This basic application is built using HTML , CSS, and JavaScript
+This basic application is built using HTML , CSS, and JavaScript.
 
 How it works?
 
